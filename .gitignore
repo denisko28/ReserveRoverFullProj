@@ -1,0 +1,15 @@
+ReserveRoverAPI/ReserveRoverAPI/wwwroot/Images/managers
+bin/
+obj/
+applicationhost.config
+.suo
+packages/
+build/
+
+dist
+node_modules
+tsconfig.tsbuildinfo
+yarn-error.log
+
+
+matrix_factorization_model.pkl
